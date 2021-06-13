@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://jailingineni.github.io/Demo-Hugo-Site/"
 title = "Meghna"
 theme = "meghna-hugo"
 publishDir = "."
