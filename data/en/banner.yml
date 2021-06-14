@@ -4,9 +4,9 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "To the STATES and BEYOND"
+  title : "To the States and Beyond"
   content : "A travel website dedicated to bring you the majestic attractions to visit during your time in the United States!"
   button:
     enable : true
     label : "Explore Us"
-    link : "#services"
+    link : "#about"
