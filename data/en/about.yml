@@ -4,11 +4,9 @@ about:
   title : About Us
   about_item :
   - icon : ti-light-bulb # themify icon pack : https://themify.me/themify-icons
-    title : Anshul Shah
-    content : Senior and Active Developer
-
-  
+    title : 
+    content : 
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Rohan Nalla
-    content : Senior and Active Developer
+    title : 
+    content : 
