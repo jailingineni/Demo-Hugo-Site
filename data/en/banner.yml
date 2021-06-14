@@ -8,5 +8,5 @@ banner:
   content : "A website dedicated to bring you the majestic attractions to visit during your travel adventures!"
   button:
     enable : true
-    label : "Explore Belgium"
+    label : "Discover Belgium"
     link : "#about"
