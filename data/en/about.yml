@@ -3,12 +3,12 @@ about:
   enable : true
   title : About Us
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-light-bulb # themify icon pack : https://themify.me/themify-icons
     title : Anshul Shah
-    content : 
+    content : Senior and Active Developer
 
   
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Rohan Nalla
-    content : 
+    content : Senior and Active Developer
