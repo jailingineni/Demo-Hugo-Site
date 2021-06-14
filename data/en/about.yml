@@ -3,10 +3,10 @@ about:
   enable : true
   title : About Us
   about_item :
-  - icon : ti-light-bulb # themify icon pack : https://themify.me/themify-icons
-    title : 
-    content : 
+  - icon : ti-gallery # themify icon pack : https://themify.me/themify-icons
+    title : About Belgium
+    content : The low-lying country in Western Europe bordering the North Sea between France and Netherlands. 
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : 
-    content : 
+  - icon : ti-stamp # themify icon pack : https://themify.me/themify-icons
+    title : Government
+    content : A federal state divided into 3 regions with the Dutch speaking Flanders, francophone Wallonia, and Brussels where the French and Dutch share official status.
